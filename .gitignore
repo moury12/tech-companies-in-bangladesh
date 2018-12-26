@@ -269,6 +269,7 @@ Package.StoreAssociation.xml
 _pkginfo.txt
 *.appx
 
+temp_auto_push.bat
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
@@ -539,9 +540,5 @@ local.properties
 .scala_dependencies
 .worksheet
 ### VisualStudioCode template
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
+branch_structure.json
