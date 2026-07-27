@@ -539,9 +539,7 @@ local.properties
 .scala_dependencies
 .worksheet
 ### VisualStudioCode template
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
