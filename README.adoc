@@ -899,6 +899,12 @@ _UK Office:_ 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ
 |https://ntsctgbd.com[Website]
 |Please update
 
+|Next Ventures
+|6th & 8th Floor, Cha-90, The Pearl Trade Center, 3 Pragati Sarani, Dhaka 1212
+|Python, TypeScript, PostgreSQL, AWS, Linux (Debian), Claude Code
+|https://nextventures.io[Website] https://www.linkedin.com/company/nextventuresofficial[LinkedIn]
+|100+
+
 |Nextech Limited
 |20/2, West Panthopath, 2nd Floor Dhaka-1205, Bangladesh
 |PHP, Laravel, Vue.js, SQL
